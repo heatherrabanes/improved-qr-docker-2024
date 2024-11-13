@@ -11,11 +11,14 @@ the target website. You must make your program generate a QR code that takes som
 ## Submission Requirements:
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
+![image](https://github.com/user-attachments/assets/025e031c-9b85-43f0-9973-8449ab501d80)
 
-PUT YOUR QR CODE IMAGE
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+![image](https://github.com/user-attachments/assets/b8371a01-72fb-476d-997f-cc4ec63161c4)
+
+
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
